@@ -1,0 +1,9 @@
+[2m2024-10-09T16:55:28.854284Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[4]: missing field `match` at line 162 column 5
+[2m2024-10-10T14:31:48.728317Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-11T13:37:08.898577Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[1].commands: unexpected argument found
+ at line 153 column 15
+[2m2024-10-11T13:42:03.782966Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[2].commands: unexpected argument found
+ at line 157 column 15
+[2m2024-10-13T03:01:38.583362Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Access is denied. (0x80070005)
+[2m2024-10-16T13:55:51.893162Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No parent
+[2m2024-10-16T16:41:55.164646Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Access is denied. (0x80070005)
